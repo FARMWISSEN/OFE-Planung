@@ -1,0 +1,3 @@
+ofe_planung folder structure
+qgis-plugin-ci
+github actions
