@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 80" width="60" height="80">
+  <!-- Arrow shaft -->
+  <polygon points="30,4 38,42 30,36 22,42" fill="#1a1a1a"/>
+  <polygon points="30,4 22,42 30,36 38,42" fill="#ffffff" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- N label -->
+  <text x="30" y="70" font-family="Arial" font-size="22" font-weight="bold"
+        text-anchor="middle" fill="#1a1a1a">N</text>
+</svg>
