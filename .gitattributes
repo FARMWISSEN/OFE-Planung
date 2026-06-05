@@ -6,3 +6,8 @@ ofe_planung/help/build/doctrees/** export-ignore
 
 # (optional) Quellen nicht n?tig, HTML reicht
 ofe_planung/help/build/html/_sources/** export-ignore
+ofe_planung/Makefile export-ignore
+ofe_planung/pb_tool.cfg export-ignore
+ofe_planung/plugin_upload.py export-ignore
+ofe_planung/pylintrc export-ignore
+ofe_planung/scripts/** export-ignore
