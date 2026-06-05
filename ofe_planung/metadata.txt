@@ -6,7 +6,7 @@
 name=OFE Planning
 qgisMinimumVersion=3.0
 description=Planung von OFE-Versuchen
-version=0.5.0
+version=0.5.1
 author=Christoph Ratke
 email=christoph.ratke@agdoit.com
 
